@@ -1,4 +1,4 @@
-# SIFT-XAI (XAI-Carve)
+# XAI-Carve
 
 This repository contains the source code and benchmark dataset for **XAI-Carve**, an explainable file-fragment classification framework. XAI-Carve processes raw 512-byte file fragments, trains a Deep Neural Funnel classifier alongside baseline models, and generates byte-level post-hoc explanations using Kernel SHAP.
 
