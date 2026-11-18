@@ -9,7 +9,7 @@ More details on the methodology and experimental evaluation are available in the
 ## Repository Contents
 
 * **`SIFT-XAI.py`** — The main executable script that orchestrates corpus serialization, TF-IDF feature engineering, model training, evaluation, and SHAP explanation generation.
-* **`Classify.py`** — Implementation of the Deep Neural Funnel Architecture (`DNN`), the ablation model without feature engineering (`DNN-W`), classical machine learning baselines, and the Kernel SHAP explainability module.
+* **`Classify.py`** — Implementation of the Deep Neural Funnel Architecture (`DNN`), the ablation models, classical machine learning baselines, and the Kernel SHAP explainability module.
 * **`sift_512.csv`** — The extracted benchmark dataset (derived from the Govdocs1 corpus) containing 47,482 raw 512-byte file fragments across 20 file types.
 
 ---
